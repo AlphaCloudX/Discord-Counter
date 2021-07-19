@@ -1,4 +1,4 @@
 pyscreenshot
-opencv-python
+Pillow
 pytesseract
 pyautogui
